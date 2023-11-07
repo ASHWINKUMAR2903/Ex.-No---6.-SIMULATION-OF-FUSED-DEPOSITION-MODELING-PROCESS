@@ -61,6 +61,8 @@ Cancel: If you decide to cancel the print, use the printer's control panel or so
 Power Down the Printer: Once the print has been canceled or completed, it's good practice to power down the 3D printer. Follow the manufacturer's instructions for properly shutting down the printer.
 
 Clean Up: Clean the print bed and remove any remaining filament from the extruder, especially if you don't plan to start another print immediately. Store the filament properly, either by returning it to the spool or using filament storage containers to protect it from moisture and dust.
+# OUTPUT:
+![image](https://github.com/ASHWINKUMAR2903/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119407186/c86bddd3-0474-4f57-84e1-6e5fff8f6758)
 
 ### Name: A.ASHWIN KUMAR
 ### Register Number: 212222100006
